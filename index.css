@@ -10,7 +10,7 @@
 }
 
 header {
-    background-color: rgb(41, 40, 40);
+    background-color: rgb(67, 66, 66);
 }
 
 
@@ -26,6 +26,41 @@ li {
     font-size: 18px;
 }
 
-.header-img {
+.header-logo {
     width: 133px;
+}
+
+
+/* banner section start */
+.banner-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    color: white;
+    background-image: url("./images/background.png"), linear-gradient(45deg, rgb(21, 21, 21), rgb(56, 56, 56));
+}
+
+.title {
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.description {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.button {
+    padding: 15px 20px;
+    border-radius: 5px;
+    background: rgb(250, 59, 26);
+    color: white;
+    border: none;
+    font-weight: bold;
+}
+
+.banner-img {
+    width: 400px;
 }
