@@ -139,3 +139,31 @@ li {
     background-color: #fff;
     color: black;
 }
+
+/* contact start */
+.contact-container {
+    background-color: black;
+    color: white;
+    padding: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.contact-logo {
+    width: 200px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    align-items: center;
+}
+
+.contact-description {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.contact-title {
+    margin-bottom: 30px;
+}
