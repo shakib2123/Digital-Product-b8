@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+header {
+    background-color: rgb(41, 40, 40);
+}
+
+
+li {
+    color: white;
+    list-style: none;
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+.item {
+    display: flex;
+    font-size: 18px;
+}
+
+.header-img {
+    width: 133px;
+}
