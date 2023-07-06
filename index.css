@@ -59,6 +59,7 @@ li {
     border: none;
     font-weight: bold;
     margin-top: 10px;
+    cursor: pointer;
 }
 
 .banner-img {
@@ -133,6 +134,7 @@ li {
     border: none;
     border-radius: 5px;
     color: white;
+    cursor: pointer;
 }
 
 .box-btn:hover {
