@@ -142,6 +142,7 @@ li {
 
 /* contact start */
 .contact-container {
+    border-bottom: 1px solid gray;
     background-color: black;
     color: white;
     padding: 100px;
@@ -166,4 +167,12 @@ li {
 
 .contact-title {
     margin-bottom: 30px;
+}
+
+/* footer start */
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
 }
